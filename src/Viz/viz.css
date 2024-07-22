@@ -1,0 +1,17 @@
+.svg-holder {
+    width: 100%;
+    flex-grow: 1;
+}
+
+.rings circle {
+    stroke: #222;
+    stroke-width: 1px;
+    stroke-dasharray: 5px;
+    fill: none;
+}
+
+
+.middle {
+    stroke: none;
+    fill: var(--red-color);
+}
