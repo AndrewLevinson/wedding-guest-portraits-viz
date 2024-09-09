@@ -13,5 +13,26 @@
 
 .middle {
     stroke: none;
-    fill: var(--red-color);
+    /* fill: #931F1D */
+    fill: #72675A
+}
+
+.line {
+    stroke: #228176;
+    /* stroke: #72675A; */
+    transition: 0.3s ease-in-out all;
+    fill: none;
+    stroke-width: 4px;
+    stroke-linecap: round;
+}
+
+.distance-line {
+    stroke: #931F1D;
+    stroke: #7F7EFF;
+    /* stroke: #72675A; */
+    transition: 0.3s ease-in-out all;
+    fill: none;
+    stroke-width: 4px;
+    stroke-linecap: round;
+
 }

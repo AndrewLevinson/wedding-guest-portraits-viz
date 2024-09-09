@@ -31,4 +31,5 @@ body {
     line-height: 1;
     letter-spacing: -0.1px;
     color: var(--red-color);
+    margin-bottom: 20px;
 }

@@ -9,7 +9,7 @@
     "Family friend": "",
     "Friend": 1,
     "Years known to bride or groom": 20,
-    "KM to get to La Fanfare": ""
+    "Miles to get to Le Fanfare": 715.18
   },
   {
     "First Name": "Valerie",
@@ -21,7 +21,7 @@
     "Family friend": "",
     "Friend": 1,
     "Years known to bride or groom": 1,
-    "KM to get to La Fanfare": ""
+    "Miles to get to Le Fanfare": 715.18
   },
   {
     "First Name": "Elie",
@@ -33,7 +33,7 @@
     "Family friend": "",
     "Friend": "",
     "Years known to bride or groom": 34,
-    "KM to get to La Fanfare": ""
+    "Miles to get to Le Fanfare": 342.68
   },
   {
     "First Name": "Paul-André",
@@ -45,7 +45,7 @@
     "Family friend": "",
     "Friend": "",
     "Years known to bride or groom": 31,
-    "KM to get to La Fanfare": ""
+    "Miles to get to Le Fanfare": 342.68
   },
   {
     "First Name": "Simone",
@@ -57,7 +57,7 @@
     "Family friend": "",
     "Friend": "",
     "Years known to bride or groom": 6,
-    "KM to get to La Fanfare": ""
+    "Miles to get to Le Fanfare": 0
   },
   {
     "First Name": "Andrew",
@@ -69,7 +69,7 @@
     "Family friend": "",
     "Friend": "",
     "Years known to bride or groom": 6,
-    "KM to get to La Fanfare": ""
+    "Miles to get to Le Fanfare": 0
   },
   {
     "First Name": "Monique",
@@ -81,7 +81,7 @@
     "Family friend": "",
     "Friend": "",
     "Years known to bride or groom": 34,
-    "KM to get to La Fanfare": ""
+    "Miles to get to Le Fanfare": 349.64
   },
   {
     "First Name": "Kira",
@@ -93,7 +93,7 @@
     "Family friend": "",
     "Friend": 1,
     "Years known to bride or groom": 20,
-    "KM to get to La Fanfare": ""
+    "Miles to get to Le Fanfare": 343.58
   },
   {
     "First Name": "Gabi",
@@ -105,7 +105,7 @@
     "Family friend": "",
     "Friend": 1,
     "Years known to bride or groom": 8,
-    "KM to get to La Fanfare": ""
+    "Miles to get to Le Fanfare": 343.58
   },
   {
     "First Name": "Cathleen",
@@ -117,7 +117,7 @@
     "Family friend": "",
     "Friend": 1,
     "Years known to bride or groom": 6,
-    "KM to get to La Fanfare": ""
+    "Miles to get to Le Fanfare": 2.06
   },
   {
     "First Name": "Tulana",
@@ -129,7 +129,7 @@
     "Family friend": "",
     "Friend": 1,
     "Years known to bride or groom": 6,
-    "KM to get to La Fanfare": ""
+    "Miles to get to Le Fanfare": 2.06
   },
   {
     "First Name": "Andi",
@@ -141,31 +141,19 @@
     "Family friend": "",
     "Friend": 1,
     "Years known to bride or groom": 6,
-    "KM to get to La Fanfare": ""
+    "Miles to get to Le Fanfare": 2.06
   },
   {
     "First Name": "Jodi",
     "Last Name": "Finkelstein",
-    "Brooklyn Wedding": "No Response",
+    "Brooklyn Wedding": "Attending",
     "Bride's side": "",
     "Groom's side": 1,
     "Family": "",
     "Family friend": 1,
     "Friend": "",
-    "Years known to bride or groom": "",
-    "KM to get to La Fanfare": ""
-  },
-  {
-    "First Name": "Guest",
-    "Last Name": "",
-    "Brooklyn Wedding": "No Response",
-    "Bride's side": "",
-    "Groom's side": 1,
-    "Family": "",
-    "Family friend": 1,
-    "Friend": "",
-    "Years known to bride or groom": "",
-    "KM to get to La Fanfare": ""
+    "Years known to bride or groom": 32,
+    "Miles to get to Le Fanfare": 534.33
   },
   {
     "First Name": "Alex",
@@ -176,8 +164,8 @@
     "Family": 1,
     "Family friend": "",
     "Friend": "",
-    "Years known to bride or groom": "",
-    "KM to get to La Fanfare": ""
+    "Years known to bride or groom": 25,
+    "Miles to get to Le Fanfare": 83.81
   },
   {
     "First Name": "Lana",
@@ -188,8 +176,8 @@
     "Family": 1,
     "Family friend": "",
     "Friend": "",
-    "Years known to bride or groom": "",
-    "KM to get to La Fanfare": ""
+    "Years known to bride or groom": 3,
+    "Miles to get to Le Fanfare": 83.81
   },
   {
     "First Name": "Andrew",
@@ -200,8 +188,8 @@
     "Family": 1,
     "Family friend": "",
     "Friend": "",
-    "Years known to bride or groom": "",
-    "KM to get to La Fanfare": ""
+    "Years known to bride or groom": 33,
+    "Miles to get to Le Fanfare": 22.61
   },
   {
     "First Name": "Shari",
@@ -212,8 +200,8 @@
     "Family": 1,
     "Family friend": "",
     "Friend": "",
-    "Years known to bride or groom": "",
-    "KM to get to La Fanfare": ""
+    "Years known to bride or groom": 33,
+    "Miles to get to Le Fanfare": 22.61
   },
   {
     "First Name": "Sam",
@@ -224,8 +212,8 @@
     "Family": 1,
     "Family friend": "",
     "Friend": "",
-    "Years known to bride or groom": "",
-    "KM to get to La Fanfare": ""
+    "Years known to bride or groom": 20,
+    "Miles to get to Le Fanfare": 22.61
   },
   {
     "First Name": "Josh",
@@ -236,32 +224,32 @@
     "Family": 1,
     "Family friend": "",
     "Friend": "",
-    "Years known to bride or groom": "",
-    "KM to get to La Fanfare": ""
+    "Years known to bride or groom": 22,
+    "Miles to get to Le Fanfare": 22.61
   },
   {
     "First Name": "Drew",
     "Last Name": "Hoepner",
-    "Brooklyn Wedding": "No Response",
+    "Brooklyn Wedding": "Attending",
     "Bride's side": "",
     "Groom's side": 1,
     "Family": "",
     "Family friend": "",
     "Friend": 1,
     "Years known to bride or groom": 15,
-    "KM to get to La Fanfare": ""
+    "Miles to get to Le Fanfare": 758.61
   },
   {
     "First Name": "Kayti",
     "Last Name": "Hoepner",
-    "Brooklyn Wedding": "No Response",
+    "Brooklyn Wedding": "Attending",
     "Bride's side": "",
     "Groom's side": 1,
     "Family": "",
     "Family friend": "",
     "Friend": 1,
     "Years known to bride or groom": 4,
-    "KM to get to La Fanfare": ""
+    "Miles to get to Le Fanfare": 758.61
   },
   {
     "First Name": "Laurie",
@@ -272,8 +260,8 @@
     "Family": 1,
     "Family friend": "",
     "Friend": "",
-    "Years known to bride or groom": "",
-    "KM to get to La Fanfare": ""
+    "Years known to bride or groom": 33,
+    "Miles to get to Le Fanfare": 40.34
   },
   {
     "First Name": "Rob",
@@ -284,32 +272,44 @@
     "Family": 1,
     "Family friend": "",
     "Friend": "",
-    "Years known to bride or groom": "",
-    "KM to get to La Fanfare": ""
+    "Years known to bride or groom": 33,
+    "Miles to get to Le Fanfare": 40.34
   },
   {
     "First Name": "Leeza",
     "Last Name": "Kramer",
-    "Brooklyn Wedding": "No Response",
+    "Brooklyn Wedding": "Attending",
     "Bride's side": "",
     "Groom's side": 1,
     "Family": 1,
     "Family friend": "",
     "Friend": "",
-    "Years known to bride or groom": "",
-    "KM to get to La Fanfare": ""
+    "Years known to bride or groom": 27,
+    "Miles to get to Le Fanfare": 40.34
   },
   {
     "First Name": "Rachel",
     "Last Name": "Kramer",
-    "Brooklyn Wedding": "No Response",
+    "Brooklyn Wedding": "Attending",
     "Bride's side": "",
     "Groom's side": 1,
     "Family": 1,
     "Family friend": "",
     "Friend": "",
-    "Years known to bride or groom": "",
-    "KM to get to La Fanfare": ""
+    "Years known to bride or groom": 31,
+    "Miles to get to Le Fanfare": 40.34
+  },
+  {
+    "First Name": "Brandon",
+    "Last Name": "Kramer",
+    "Brooklyn Wedding": "Attending",
+    "Bride's side": "",
+    "Groom's side": "",
+    "Family": "",
+    "Family friend": "",
+    "Friend": "",
+    "Years known to bride or groom": 27,
+    "Miles to get to Le Fanfare": 40.34
   },
   {
     "First Name": "Amy",
@@ -320,8 +320,8 @@
     "Family": 1,
     "Family friend": "",
     "Friend": "",
-    "Years known to bride or groom": "",
-    "KM to get to La Fanfare": ""
+    "Years known to bride or groom": 33,
+    "Miles to get to Le Fanfare": 2.47
   },
   {
     "First Name": "David",
@@ -333,7 +333,7 @@
     "Family friend": "",
     "Friend": "",
     "Years known to bride or groom": 33,
-    "KM to get to La Fanfare": ""
+    "Miles to get to Le Fanfare": 733.15
   },
   {
     "First Name": "Mindy",
@@ -345,7 +345,7 @@
     "Family friend": "",
     "Friend": "",
     "Years known to bride or groom": 33,
-    "KM to get to La Fanfare": ""
+    "Miles to get to Le Fanfare": 733.15
   },
   {
     "First Name": "Jessica",
@@ -356,8 +356,8 @@
     "Family": 1,
     "Family friend": "",
     "Friend": "",
-    "Years known to bride or groom": "",
-    "KM to get to La Fanfare": ""
+    "Years known to bride or groom": 28,
+    "Miles to get to Le Fanfare": 715.18
   },
   {
     "First Name": "Ari",
@@ -368,8 +368,8 @@
     "Family": 1,
     "Family friend": "",
     "Friend": "",
-    "Years known to bride or groom": "",
-    "KM to get to La Fanfare": ""
+    "Years known to bride or groom": 28,
+    "Miles to get to Le Fanfare": 715.18
   },
   {
     "First Name": "Andrea",
@@ -381,7 +381,7 @@
     "Family friend": "",
     "Friend": 1,
     "Years known to bride or groom": 19,
-    "KM to get to La Fanfare": ""
+    "Miles to get to Le Fanfare": 592.32
   },
   {
     "First Name": "Matthew",
@@ -393,7 +393,7 @@
     "Family friend": "",
     "Friend": 1,
     "Years known to bride or groom": 10,
-    "KM to get to La Fanfare": ""
+    "Miles to get to Le Fanfare": 592.32
   },
   {
     "First Name": "Thomas",
@@ -405,7 +405,7 @@
     "Family friend": "",
     "Friend": 1,
     "Years known to bride or groom": 13,
-    "KM to get to La Fanfare": ""
+    "Miles to get to Le Fanfare": 715.18
   },
   {
     "First Name": "Allison",
@@ -417,7 +417,7 @@
     "Family friend": "",
     "Friend": 1,
     "Years known to bride or groom": 8,
-    "KM to get to La Fanfare": ""
+    "Miles to get to Le Fanfare": 715.18
   },
   {
     "First Name": "Haley",
@@ -429,7 +429,7 @@
     "Family friend": "",
     "Friend": "",
     "Years known to bride or groom": 30,
-    "KM to get to La Fanfare": ""
+    "Miles to get to Le Fanfare": 19.35
   },
   {
     "First Name": "Dave",
@@ -441,7 +441,7 @@
     "Family friend": "",
     "Friend": "",
     "Years known to bride or groom": 5,
-    "KM to get to La Fanfare": ""
+    "Miles to get to Le Fanfare": 19.35
   },
   {
     "First Name": "Perry",
@@ -453,7 +453,7 @@
     "Family friend": "",
     "Friend": 1,
     "Years known to bride or groom": 14,
-    "KM to get to La Fanfare": ""
+    "Miles to get to Le Fanfare": 343.58
   },
   {
     "First Name": "Daniel",
@@ -465,7 +465,7 @@
     "Family friend": "",
     "Friend": 1,
     "Years known to bride or groom": 8,
-    "KM to get to La Fanfare": ""
+    "Miles to get to Le Fanfare": 343.58
   },
   {
     "First Name": "Frank",
@@ -477,7 +477,7 @@
     "Family friend": "",
     "Friend": 1,
     "Years known to bride or groom": 17,
-    "KM to get to La Fanfare": ""
+    "Miles to get to Le Fanfare": 715.18
   },
   {
     "First Name": "Lina",
@@ -489,7 +489,7 @@
     "Family friend": "",
     "Friend": 1,
     "Years known to bride or groom": 22,
-    "KM to get to La Fanfare": ""
+    "Miles to get to Le Fanfare": 342.68
   },
   {
     "First Name": "Maeve",
@@ -501,7 +501,7 @@
     "Family friend": "",
     "Friend": 1,
     "Years known to bride or groom": "",
-    "KM to get to La Fanfare": ""
+    "Miles to get to Le Fanfare": 1.96
   },
   {
     "First Name": "Danny",
@@ -513,7 +513,7 @@
     "Family friend": "",
     "Friend": "",
     "Years known to bride or groom": 21,
-    "KM to get to La Fanfare": 1300
+    "Miles to get to Le Fanfare": 715.18
   },
   {
     "First Name": "Meg",
@@ -525,7 +525,7 @@
     "Family friend": "",
     "Friend": 1,
     "Years known to bride or groom": 4,
-    "KM to get to La Fanfare": ""
+    "Miles to get to Le Fanfare": 715.18
   },
   {
     "First Name": "Alan",
@@ -536,8 +536,8 @@
     "Family": 1,
     "Family friend": "",
     "Friend": "",
-    "Years known to bride or groom": "",
-    "KM to get to La Fanfare": ""
+    "Years known to bride or groom": 33,
+    "Miles to get to Le Fanfare": 52.32
   },
   {
     "First Name": "Bonnie",
@@ -548,20 +548,20 @@
     "Family": 1,
     "Family friend": "",
     "Friend": "",
-    "Years known to bride or groom": "",
-    "KM to get to La Fanfare": ""
+    "Years known to bride or groom": 33,
+    "Miles to get to Le Fanfare": 52.32
   },
   {
     "First Name": "Ryan",
     "Last Name": "Wunsch",
-    "Brooklyn Wedding": "No Response",
+    "Brooklyn Wedding": "Attending",
     "Bride's side": "",
     "Groom's side": 1,
     "Family": 1,
     "Family friend": "",
     "Friend": "",
-    "Years known to bride or groom": "",
-    "KM to get to La Fanfare": ""
+    "Years known to bride or groom": 21,
+    "Miles to get to Le Fanfare": 52.32
   },
   {
     "First Name": "Eydie",
@@ -573,6 +573,6 @@
     "Family friend": "",
     "Friend": "",
     "Years known to bride or groom": 33,
-    "KM to get to La Fanfare": ""
+    "Miles to get to Le Fanfare": 29.13
   }
 ]
